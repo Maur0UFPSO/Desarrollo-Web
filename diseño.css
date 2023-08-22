@@ -1,0 +1,18 @@
+body{
+    font-family: 'Tinos', serif;
+    background-color: antiquewhite;
+}
+h1{
+    background-color: darkgray;
+    font-size: 5em;
+    text-align: center;
+    margin: 0;
+}
+
+table{
+    border: cornflowerblue;
+    background-color: azure;
+}
+td{
+    text-align: center;
+}
