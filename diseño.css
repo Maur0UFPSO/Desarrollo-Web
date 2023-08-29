@@ -12,6 +12,9 @@ h1{
 table{
     border: cornflowerblue;
     background-color: azure;
+    position: relative;
+    margin-top: 20px;
+    box-shadow: 20px 20px 10px black;
 }
 td{
     text-align: center;
