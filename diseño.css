@@ -10,12 +10,30 @@ h1{
 }
 
 table{
-    border: cornflowerblue;
-    background-color: azure;
-    position: relative;
-    margin-top: 20px;
     box-shadow: 20px 20px 10px black;
+    background-color: darkslategrey;
+    color: white;
+    border-style: none;
+    margin: 10px;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-25%)
 }
 td{
     text-align: center;
+}
+.cabecera{
+    background-color: black;
+    border-radius: 10px;
+    border-style: hidden;
+    color: white;
+}
+nav{
+    display: flex;
+    justify-content: right;
+}
+a{
+    font-size: 15px;
+    margin-right: 10px;
 }

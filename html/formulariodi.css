@@ -1,0 +1,28 @@
+#segtil{
+    font-size: 50px;
+    color: azure;
+    background-color: darkslategrey;
+    text-align: center;
+    padding: auto;
+}
+body{
+    background-color:#4F2F2F ;
+}
+nav{
+    display: flex;
+    justify-content: right;
+}
+a{
+    border-style: none;
+    text-decoration: none;
+    margin-right: 10px;
+    color: white;
+}
+a:hover{
+    color: black;
+    border-bottom: 50px;
+    transition: 5ms;
+    transform-box: 2px;
+    margin-right: 5px;
+
+}
